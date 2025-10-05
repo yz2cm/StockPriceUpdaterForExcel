@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "StockPriceUpdaterForExcel": {
+      "commandName": "Project",
+      "commandLineArgs": "-file \"C:\\Users\\yz2cm\\OneDrive\\Documents\\★保管文書\\連続増配株のポートフォリオ.xlsx\" -sheet \"候補銘柄\" -tickerTopCell \"C4\" -priceTopCell \"G4\""
+    }
+  }
+}
